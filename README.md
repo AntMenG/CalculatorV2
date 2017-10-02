@@ -2,7 +2,7 @@
 <table width="100%" border="0">
 	<tr width="100%">
 		<td width="20%">
-			<img src="cover.png" width="100%"  style="float: left;">
+			<img src="Cover.png" width="100%"  style="float: left;">
 		</td>
 		<td width="80%" align="center" style="text-align: center;">
 				Scientific calculator developed in Android Studio, its principle of operation is to print the contents of its buttons in the text string, which will be extracted later to perform the respective operations of each of them.
