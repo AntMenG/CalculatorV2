@@ -1,6 +1,6 @@
 <h1>Scientific Calculator</h1>
-<img src="cover.png" width="200%" style="float: left;">
-<p style="text-align: center; width: 20%;" style="float: left;">
+<img src="cover.png" width="20%" style="float: left;">
+<p style="text-align: center; width: 80%;" style="float: left;">
 	Scientific calculator developed in Android Studio, its prince of operation is to print the contents of its buttons in a string of text, which, will be extracted later to do the respective operations of each one of them.
 	<b>Errors found</b>
 	<ul>
