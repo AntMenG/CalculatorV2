@@ -4,7 +4,7 @@
 		<td width="20%">
 			<img src="cover.png" width="100%"  style="float: left;">
 		</td>
-		<td width="80%">
+		<td width="80%" style="text-align: center;">
 				Scientific calculator developed in Android Studio, its prince of operation is to print the contents of its buttons in a string of text, which, will be extracted later to do the respective operations of each one of them.
 		</td>
 	</tr>
